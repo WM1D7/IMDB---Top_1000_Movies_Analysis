@@ -1,6 +1,6 @@
 # " IMDB_Top_1000_Movies_Analysis "
 
-<img src="https://user-images.githubusercontent.com/117552819/279877495-47f3af59-3ed6-4c47-a4f1-f02f25086be8.png" width="500" height="250">
+<img src="https://user-images.githubusercontent.com/117552819/279877495-47f3af59-3ed6-4c47-a4f1-f02f25086be8.png" width="400" height="200">
 
 ## Project Description :
 The comprehensive analysis of the IMDb top 1000 movies, providing valuable information and trends in the world of cinema.      
