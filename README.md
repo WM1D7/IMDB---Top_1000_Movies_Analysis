@@ -87,7 +87,7 @@ Discover the evolution of movie trends over the years, correlations between rati
 
 ## Approach :
 
-**Data Collection:**
+**Data Collection:** -  **( PyCharm )**
 
 -  Utilize the BeautifulSoup library for web scraping IMDb's top 1000 movies data.
 -  Extract relevant information such as year, time, rating, metascore, votes, gross, description, director, and stars.
