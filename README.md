@@ -140,8 +140,8 @@ https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scrapi
 <img src="https://github.com/WM1D7/IMDB---Top_1000_Movies_Analysis/blob/main/Dashboard.png" width="1200" height="700">
 
 ## Key Findings:
-The number of top movies released annually has shown a steady increase over the years till 2014 , with a notable spike in the 2004 and 2014.
-we can find all the necessary information about movies such as Rank, High Rated, High Voted, Longest, Highest Meta Score and  movie summaries.
+The number of top movies released annually has shown a steady increase over the years till 2014 , with a notable spike in the 2004 and 2014.      
+we can find and compare  all the necessary information about movies such as Rank, High Rated, High Voted, Longest, Highest Meta Score and  movie summaries.
  
 
 ## Conclusion:
