@@ -11,7 +11,7 @@ Discover the evolution of movie trends over the years, correlations between rati
 
 ## Tech Stack Used
 
- <img src="https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/" width="250" height="150">  <img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" width="200" height="170">  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="380" height="170">
+ <img src="https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/" width="250" height="150">  <img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" width="200" height="170">  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="250" height="150">
 
  ## Libraries Used
 
