@@ -92,13 +92,15 @@ Discover the evolution of movie trends over the years, correlations between rati
 -  Utilize the BeautifulSoup library for web scraping IMDb's top 1000 movies data.
 -  Extract relevant information such as year, time, rating, metascore, votes, gross, description, director, and stars.
 
-**Data Cleaning and Preprocessing:**
+**Data Cleaning and Preprocessing:** -  ( Excel )
 
 -  Handle missing data and outliers to ensure data quality.
 -  Convert data types, if necessary, for accurate analysis.
 -  Address any discrepancies in the scraped data.
 -  Exploratory Data Analysis (EDA):
 -  Explore the dataset to understand its structure and characteristics.
+
+**Data Visualization:** -  ( Power BI )
 
 **Objective 1 - Top Movies Releases by Year:**
 
