@@ -135,7 +135,9 @@ https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scrapi
 -  Extract and compile a list of movie summaries, including rank, name, and rating.
 -  Present the summarized information in a clear and organized format.
 
-**Deliverables 1:**
+**Deliverables :**
+
+<img src="https://github.com/WM1D7/IMDB---Top_1000_Movies_Analysis/blob/main/Dashboard.png" width="1200" height="700">
 
 ## Key Findings:
 
