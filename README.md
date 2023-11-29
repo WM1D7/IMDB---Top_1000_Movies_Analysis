@@ -100,7 +100,7 @@ Discover the evolution of movie trends over the years, correlations between rati
 -  Exploratory Data Analysis (EDA):
 -  Explore the dataset to understand its structure and characteristics.
 
-**Data Visualization:** -  **( Power BI )**
+**Data Visualization:** -  **( Tableau )**
 
 **Objective 1 - Top Movies Releases by Year:**
 
