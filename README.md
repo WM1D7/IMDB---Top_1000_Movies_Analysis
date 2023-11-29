@@ -9,13 +9,18 @@ The scraped data includes the release year, duration, IMDb rating, Metascore, nu
 The analysis dives deep into the collected data, uncovering patterns, correlations, and interesting insights about the top-rated movies.     
 Discover the evolution of movie trends over the years, correlations between ratings and box office earnings, and explore the influence of directors and star cast on movie success.
 
-## Tech Stack Used
+## Tech Stack Used :
 
  <img src="https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/" width="250" height="150">  <img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" width="200" height="170">  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="250" height="150">
 
- ## Libraries Used
+ ## Libraries Used :
 
  <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" width="300" height="150">
+
+ ## Design :
+ 
+ <img src="https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png" width="300" height="150">
+ 
 
 ## 🛠 Skills Demonstrated :
 
