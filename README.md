@@ -6,7 +6,6 @@
 The comprehensive analysis of the IMDb top 1000 movies, providing valuable information and trends in the world of cinema.      
 The project utilizes web scraping techniques, specifically leveraging the BeautifulSoup library, to gather data on various aspects of each movie.           
 The scraped data includes the release year, duration, IMDb rating, Metascore, number of votes, gross revenue, movie description.
-
 The analysis dives deep into the collected data, uncovering patterns, correlations, and interesting insights about the top-rated movies.     
 Discover the evolution of movie trends over the years, correlations between ratings and box office earnings, and explore the influence of directors and star cast on movie success.
 
