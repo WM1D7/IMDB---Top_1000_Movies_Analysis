@@ -31,5 +31,115 @@ https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scrapi
 
 ##  Objectives :
 
+**Top Movies Releases by Year:**
+
+-  Objective: Determine the distribution of top movies released each year in the IMDb top 1000 list.
+-  Action: Count the number of top movies released for each year.
+
+**Top Movies Box Office Collection by Year:**
+
+-  Objective: Explore the box office success of top movies released each year.
+-  Action: Calculate the total box office collection of top movies for each year.
+
+**Top Movies Releases by Year (Reiteration):**
+
+-  Objective: Reiterate the analysis of the distribution of top movies released each year.
+-  Action: Confirm the number of top movies released for each year.
+
+**Voting and Meta Score Analysis by Year:**
+
+-  Objective: Analyze the total number of votes, average voting, and meta score for top movies each year.
+-  Action: Calculate the total number of votes, average voting, and average meta score for each year.
+
+**Top 5 Movies by Year:**
+
+-  Objective: Identify the top 5 movies based on rank each year.
+-  Action: Extract and list the top 5 movies for each year.
+
+**Top 5 High Rated Movies by Year:**
+
+-  Objective: Determine the top 5 highest-rated movies each year.
+-  Action: Identify and list the top 5 movies with the highest ratings for each year.
+
+**Top 5 High Voted Movies by Year :**
+
+-  Objective: Identify the top 5 movies with the highest number of votes each year.
+-  Action: List the top 5 movies with the highest vote count for each year.
+
+**Top 5 Longest Movies by Year:** 
+-  Objective: Identify the top 5 longest duration movies each year.
+-  Action: List the top 5 movies with the longest duration for each year.
+
+**Top 5 Movies with Highest Meta Score by Year:**
+
+-  Objective: Identify the top 5 movies with the highest meta score each year.
+-  Action: List the top 5 movies with the highest meta score for each year.
+
+**Top Movies Produced by Year:**
+
+-  Objective: Determine the top movies produced each year.
+-  Action: Identify and list the top movies in terms of production for each year.
+
+**Movies Summary, Rank, Movie Name, and Rating:**
+
+-  Objective: Provide a summary of key details for each movie, including rank, name, and rating.
+-  Action: Extract and compile a list of movie summaries, including rank, name, and rating.
+
+## Approach :
+
+**Data Collection:**
+
+-  Utilize the BeautifulSoup library for web scraping IMDb's top 1000 movies data.
+-  Extract relevant information such as year, time, rating, metascore, votes, gross, description, director, and stars.
+
+**Data Cleaning and Preprocessing:**
+
+-  Handle missing data and outliers to ensure data quality.
+-  Convert data types, if necessary, for accurate analysis.
+-  Address any discrepancies in the scraped data.
+-  Exploratory Data Analysis (EDA):
+-  Explore the dataset to understand its structure and characteristics.
+
+**Objective 1 - Top Movies Releases by Year:**
+
+-  Count the number of top movies released for each year.
+-  Visualize the distribution of movie releases over the years.
+
+**Objective 2 - Top Movies Box Office Collection by Year:**
+
+-  Sum the box office gross for top movies released each year.
+-  Visualize the box office collections over the years.
+
+**Objective 3 - Top Movies Releases by Year (Reiteration):**
+
+-  Confirm the number of top movies released for each year.
+-  Cross-verify with the results from Objective 1.
+
+**Objective 4 - Voting and Meta Score Analysis by Year:**
+
+-  Calculate the total number of votes, average voting, and average meta score for each year.
+-  Visualize trends in voting and meta scores over the years.
+
+**Objective 5 to 9 - Top 5 Movies Analysis:**
+
+-  Identify and list the top 5 movies for each category (Rank, High Rated, High Voted, Longest, Highest Meta Score) each year.
+-  Create visualizations to highlight the top 5 movies over the years for each category.
+
+**Objective 10 - Top Movies Produced by Year:**
+
+-  Identify and list the top movies in terms of production for each year.
+-  Visualize the production trends over the years.
+
+**Objective 11 - Movies Summary, Rank, Movie Name, and Rating:**
+
+-  Extract and compile a list of movie summaries, including rank, name, and rating.
+-  Present the summarized information in a clear and organized format.
+
+**Deliverables 1:**
+
+## Key Findings:
+
+## Conclusion:
+
 
 
